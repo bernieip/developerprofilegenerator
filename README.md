@@ -11,6 +11,8 @@ SO THAT I can easily prepare reports for stakeholders
 ```
 ## How to use
 
+The application will be invoked with the following command in the terminal:
+
 ```
 node index.js
 ```
