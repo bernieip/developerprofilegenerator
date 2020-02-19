@@ -1,6 +1,15 @@
 # developerprofilegenerator
 
-This app will generate a PDF image of a profile from github. The application will be invoked with the following commands:
+This app will generate a PDF image of a profile from github.
+
+## User Stories
+
+```
+AS A product manager
+I WANT a developer profile generator
+SO THAT I can easily prepare reports for stakeholders
+```
+## How to use
 
 ```
 node index.js
@@ -21,14 +30,6 @@ The PDF will be populated with the following:
 * Number of followers
 * Number of GitHub stars
 * Number of users following
-
-## User Stories
-
-```
-AS A product manager
-I WANT a developer profile generator
-SO THAT I can easily prepare reports for stakeholders
-```
 
 ## Tech Stack
 
