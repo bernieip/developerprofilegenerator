@@ -1,0 +1,26 @@
+{
+  "name": "developerprofilegenerator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bernieip/developerprofilegenerator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@octokit/rest": "^16.35.0",
+    "axios": "^0.19.0",
+    "got": "^9.6.0",
+    "inquirer": "^6.5.0",
+    "pdf-maker": "0.0.2",
+    "pdfmake": "^0.1.62",
+    "puppeteer": "^2.0.0",
+    "request": "^2.88.0",
+    "util": "^0.12.1"
+  }
+}
